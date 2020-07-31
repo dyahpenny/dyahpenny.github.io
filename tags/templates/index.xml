@@ -5,19 +5,18 @@
     <link>https://dyahpenny.github.io/tags/templates/</link>
     <description>Recent content in templates on Dyah Penny</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dyahpenny.github.io/tags/templates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://dyahpenny.github.io/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Tulisan Pertama</title>
+      <link>https://dyahpenny.github.io/post/tulisan-pertama/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dyahpenny.github.io/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <guid>https://dyahpenny.github.io/post/tulisan-pertama/</guid>
+      <description>Hai, ini adalah tulian pertamaku. Banyak yang mesti diubah di halaman lainnya :(</description>
     </item>
     
   </channel>
